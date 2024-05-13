@@ -1,1 +1,2 @@
 # ASL-SIGN
+The Enhanced ASL Sign Language Recognition System is an innovative project that combines the rich visual data of American Sign Language (ASL) with cutting-edge Machine Learning (ML) techniques to accurately detect, interpret, and recognize gestures in real-time. This project aims to bridge communication barriers between the deaf and hearing communities by providing a robust and intuitive tool for sign language interpretation.
